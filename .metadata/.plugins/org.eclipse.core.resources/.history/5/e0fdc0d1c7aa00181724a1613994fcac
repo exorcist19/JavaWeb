@@ -1,0 +1,13 @@
+
+public class Exercise16_12 {
+
+	TextArea  t= new TextArea();
+			CheckBox Ckedit = new CheckBox();
+			CheckBox CKwrap = new CheckBox();
+			
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     
+	}
+
+}

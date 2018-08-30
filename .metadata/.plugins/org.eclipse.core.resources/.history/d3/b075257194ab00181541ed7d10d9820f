@@ -1,0 +1,27 @@
+import javafx.geometry.Pos;
+import javafx.scene.control.TextField;
+
+public class SierpinskiTriangle extends Appplication {
+	@Override
+	public void start(Stage primaryStage) {
+		SierpinskiTrianglePane pane = ne SierpinskiTrianglePane();
+		TextField tfOrder = new TextField();
+		tfOrder.setOnAction(
+				e -> pane.setOrder(Integer, parseInt(tfOrder.getText()));
+				tfOrder.setOrder = new TextField();
+				tfOrder.setPrefColoumCount(4));
+				tfOrder.setAlignment(Pos.BOTTOM_RIGHT);
+				
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Quotient {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+ Scanner input = new Scanner(System.in);
+ System.out.println("Enter an Integer for x: ");
+ int number = input.nextInt();
+ System.out.println("Enter an Integer for y: ");
+ 
+ int x = 0;
+ int y;
+
+System.out.println(x/y);
+		 
+		 
+		 
+	}
+
+}
