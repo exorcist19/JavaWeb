@@ -1,8 +1,0 @@
-package Chpt13;
-
-public class B {
-	public void show() {
-		 System.out.println("Test");
- }
-}
- 
